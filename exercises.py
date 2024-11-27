@@ -139,6 +139,7 @@ def product(*args):
       total *= num
   return total
 
+print('Exercise 8:', product(-1, 4)) 
 print('Exercise 8:', product(2, 5, 5))
 
 # Exercise 9: Basic Calculator
